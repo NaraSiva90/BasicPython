@@ -5,4 +5,5 @@ This project / repository serves to document my efforts at learning the Python p
 
 ## Motivation:
 * Address the 2-language problem (prototyping in R, implementation in SAS / Java / C++) by learning this language which has limited capabilities of both. 
-* I also plan to apply the learnings from this book to Derivatives Analytics based on Cerrato's book. 
+* Apply learnings from this book to Derivatives Analytics based on Mario Cerrato's book & Yves Hilpsch's book. 
+* Attain at least interview-level proficiency in Python, expand my horizons and improve my employability at crack quant teams. 
